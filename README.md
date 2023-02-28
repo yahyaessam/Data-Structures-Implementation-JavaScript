@@ -15,7 +15,7 @@ Implementation of some Data Structures using JavaScript.
 |3 | [Linked List](#linked-list-implementation-in-javascript)|
 
 
-### 1.Array Implementation in Javascript
+### Array Implementation in Javascript
 ```javascript
 class myArray {
 
@@ -66,7 +66,7 @@ class myArray {
 const arr = new myArray();
 ```
 
-### 2.Hash Table Implementation in Javascript
+### Hash Table Implementation in Javascript
 
 ```javascript
 class HashTable {
