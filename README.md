@@ -1,4 +1,4 @@
-# Data-Structures-Implementation-JavaScript
+# Data Structures Implementation in JavaScript
 
 
 Implementation of some Data Structures using JavaScript.
