@@ -13,6 +13,8 @@ Implementation of some Data Structures using JavaScript.
 |1 | [Array](#array-implementation-in-javascript)|
 |2 | [Hash Table](#hash-table-implementation-in-javascript)|
 |3 | [Linked List](#linked-list-implementation-in-javascript)|
+|4 | [ٍStack](#stack-implementation-in-javascript)|
+|5 | [ٍQueue](#queue-implementation-in-javascript)|
 
 
 ### Array Implementation in Javascript
