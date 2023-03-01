@@ -137,7 +137,7 @@ const myHashTable = new HashTable(50)
 ### Stack Implementation In JavaScript
 ## Implementation with Linked List
 
-```
+```javascript
 class Node {
     constructor(data) {
         this.data = data;
@@ -196,7 +196,7 @@ const myFirstStack = new StackWithLinkedList();
 
 ## Implementation with Array
 
-```
+```javascript
 class StackWithArray {
 
     constructor() {
