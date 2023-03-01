@@ -17,7 +17,7 @@ Implementation of some Data Structures using JavaScript.
 |5 | [Queue](#queue-implementation-in-javascript)|
 
 
-### Array Implementation in Javascript
+## Array Implementation in Javascript
 ```javascript
 class myArray {
 
@@ -68,7 +68,7 @@ class myArray {
 const arr = new myArray();
 ```
 
-### Hash Table Implementation in Javascript
+## Hash Table Implementation in Javascript
 
 ```javascript
 class HashTable {
@@ -134,8 +134,8 @@ const myHashTable = new HashTable(50)
 
 ```
 
-### Stack Implementation In JavaScript
-## Implementation with Linked List
+## Stack Implementation In JavaScript
+### Implementation with Linked List
 
 ```javascript
 class Node {
@@ -194,7 +194,7 @@ const myFirstStack = new StackWithLinkedList();
 
 ```
 
-## Implementation with Array
+### Implementation with Array
 
 ```javascript
 class StackWithArray {
