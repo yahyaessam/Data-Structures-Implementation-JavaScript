@@ -1,0 +1,6 @@
+class Stack {
+  constructor() {
+
+  }
+  
+}
