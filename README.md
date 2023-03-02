@@ -137,7 +137,7 @@ const myHashTable = new HashTable(50)
 ## Linked List Implementation in Javascript
 
 ```javascript
-// code will added here
+// code will be added here
 ```
 
 
