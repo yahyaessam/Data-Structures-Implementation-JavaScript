@@ -15,7 +15,7 @@ Implementation of some Data Structures using JavaScript.
 |3 | [Linked List](#linked-list-implementation-in-javascript)|
 |4 | [Stack](#stack-implementation-in-javascript)|
 |5 | [Queue](#queue-implementation-in-javascript)|
-|6 | [Binary Search Tree](#binary-search-tree-implementation-in-javascript)|
+|6 | [Binary Search Tree](#Binary-Search-Tree-Impelementation-in-JavaScript)|
 
 ## Array Implementation in Javascript
 ```javascript
