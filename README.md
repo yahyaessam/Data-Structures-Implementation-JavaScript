@@ -134,6 +134,13 @@ const myHashTable = new HashTable(50)
 
 ```
 
+## Linked List Implementation in Javascript
+
+```javascript
+// code will added here
+```
+
+
 ## Stack Implementation In JavaScript
 ### Implementation with Linked List
 
